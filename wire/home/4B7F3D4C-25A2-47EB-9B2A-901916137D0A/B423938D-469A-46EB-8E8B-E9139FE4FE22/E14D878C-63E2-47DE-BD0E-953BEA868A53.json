@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E14D878C-63E2-47DE-BD0E-953BEA868A53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "740AEB34-905E-404E-A5A5-057278B10280",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B1218EBE-4463-4332-A7A5-C09381D05248",
+    "height": 130,
+    "width": 148,
+    "x": 521,
+    "y": 154
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn-calc",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5A58475-18B2-4FD6-B835-8A7A35E56CE5",
+      "overrideName": "9A26BDEB-37F8-47A6-BA99-767397722E05_stringValue",
+      "value": "Enter"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1E4F017-9C2F-4B87-B807-47C1773FFAB1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FCFD3D5D-A78D-4CC0-B798-0B9C69B38A43",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "94D465C3-6117-4B4C-B7D8-3449E2363369",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E6A1E03-77A9-4B90-8F89-23BA0003857C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5595E90E-5B73-4FE3-96C0-F24745DE2467",
+    "height": 284,
+    "width": 286,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F6F66E2D-DE11-4F66-A4BE-7E1AB452370E"
+    },
+    {
+      "class": "group",
+      "id": "CABE7D6F-C5C7-411D-8682-9C4C3CCD6B2A"
+    }
+  ],
+  "name": "pag 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1EBA162D-2011-4D08-AE67-BB25B0D9C570",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

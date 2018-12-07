@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3720F164-6564-455E-882C-B659E2FE766A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 141,
+    "width": 272,
+    "x": 24,
+    "y": 390
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "85933EFF-44EF-449F-BFAE-5BEE4F5B4026"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03787E0B-D528-479B-B5CD-CAF9D06A59DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9DA9FA69-2DC9-4F00-9094-BFA4D1ABAC54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39EE3B3F-571B-415B-9E32-F01B09006D5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "66D138E2-C08B-45B4-95E0-2BCEE9054DBB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "509EC5F0-CED9-4C00-B1C6-AEE2BB5AC565"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2BEE27B-3DF3-40CA-AF98-D50C9D829FD6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "995F7293-5E88-48CA-9AEF-E0754996CEBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18BF4439-9733-4595-95ED-953C48735B42"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44BA97F8-E393-4E8D-B8AA-408456E5CB57"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60387667-D200-4052-8E5B-8994DD4EE2B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A220EFE-3AEC-4AA4-89FA-FA6F09E07E00"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4DA23B65-2A5A-4BA3-BD44-E5D31225BF22"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A25B7F3-5E7E-4B4B-8EB9-4C0C55AF44A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75EA8780-EF37-49AB-8725-BE7ABCB0FEBB"
+    }
+  ],
+  "name": "calc",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

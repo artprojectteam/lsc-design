@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BC116159-16F8-42A9-ADC4-CB0BFA1E85E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "133CA2F2-E1AB-4BF5-832B-40025E5BC25B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3334206C-F4AF-48C0-ADF9-3958CA4F2248",
+    "height": 61,
+    "width": 435,
+    "x": 127,
+    "y": 686
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button Stroke Big",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D8A7A5F-79D2-4261-AAA3-D84795EF37D1",
+      "overrideName": "B6937750-F81A-4C84-A488-25C53B7AEC53_stringValue",
+      "value": "コードを表示"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9FC95831-319A-41C1-96A0-9A1F5112C5E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6F0BD509-6CF3-491F-A4E9-11BBE7FBAEEE",
+  "verticalSpacing": 0
+}

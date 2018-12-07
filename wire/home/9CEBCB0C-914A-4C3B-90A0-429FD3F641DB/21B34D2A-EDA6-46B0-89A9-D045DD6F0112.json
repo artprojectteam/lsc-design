@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "21B34D2A-EDA6-46B0-89A9-D045DD6F0112",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA827358-9D31-4D1D-BF19-6F349EC73842",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1657B21C-7E1D-409A-8F3F-77251225405E",
+    "height": 72,
+    "width": 493,
+    "x": 830,
+    "y": 226
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button Stroke Big",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3AF0A699-7DBA-45EF-BFB3-B328B5EAD8F0",
+      "overrideName": "FEC1362E-8641-424B-BD0E-8E20E3BE8B74_stringValue",
+      "value": "時間"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F9F94DB-AD1F-4B62-ABFE-C8F3EE42276A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6354D8F6-A4B7-4779-B7B2-EE3995061D1E",
+  "verticalSpacing": 0
+}
