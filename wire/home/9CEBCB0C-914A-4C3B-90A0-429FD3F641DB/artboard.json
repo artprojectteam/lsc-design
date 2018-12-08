@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -57,44 +57,16 @@
       "id": "34F0EE28-3FC4-4015-A06E-C1F43346B83F"
     },
     {
-      "class": "group",
-      "id": "F83819BC-9B76-4C9B-B734-5B1B2B264675"
-    },
-    {
-      "class": "group",
-      "id": "D0D0EFAF-AFFE-40C7-B186-1B800BF020DB"
-    },
-    {
-      "class": "rectangle",
-      "id": "92F0D636-5666-44E6-BB5B-076FDC50FDF7"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "237DC225-1EE3-462C-96E5-371E22830C23"
-    },
-    {
       "class": "symbolInstance",
       "id": "21CA6524-5CD1-4E43-8419-B390665A5FA5"
-    },
-    {
-      "class": "text",
-      "id": "EFCD0357-768E-459D-958C-9334CEF46A2A"
-    },
-    {
-      "class": "text",
-      "id": "B2AF6A9D-833D-4C31-86C8-79DA39F36634"
     },
     {
       "class": "symbolInstance",
       "id": "21B34D2A-EDA6-46B0-89A9-D045DD6F0112"
     },
     {
-      "class": "rectangle",
-      "id": "F3FC27B9-1FA5-44C5-852A-63442580E541"
-    },
-    {
-      "class": "text",
-      "id": "C7043241-7585-4D2E-B0AD-AFE4DD99D66E"
+      "class": "group",
+      "id": "C8C2FB15-FE79-4ABA-92E2-8F475B92D64D"
     },
     {
       "class": "symbolInstance",
@@ -115,6 +87,10 @@
     {
       "class": "rectangle",
       "id": "FC1B345A-B4B8-4ECA-87AF-9F51773B0BD0"
+    },
+    {
+      "class": "group",
+      "id": "E5E6A280-E728-4A31-98E3-6DC5D1CD3218"
     }
   ],
   "name": "mouse-desktop",

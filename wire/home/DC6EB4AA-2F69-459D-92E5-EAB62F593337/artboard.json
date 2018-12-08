@@ -64,31 +64,7 @@
     },
     {
       "class": "text",
-      "id": "A3573713-3DEC-4048-AC29-F44CAF5EA9F1"
-    },
-    {
-      "class": "text",
-      "id": "48E50A03-600B-4FDE-B7F4-E9868C898923"
-    },
-    {
-      "class": "group",
-      "id": "71E76D45-43B3-4FDA-8260-7F57F0AA570B"
-    },
-    {
-      "class": "group",
-      "id": "8D0AB80C-CDDA-42BD-A0FF-14D3410ACA63"
-    },
-    {
-      "class": "text",
       "id": "4D94F166-C008-47EA-B0D3-C0690421FAB3"
-    },
-    {
-      "class": "rectangle",
-      "id": "6035EF51-D506-494A-B9D2-F02EC946DC32"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C2D92D81-D1D3-4B31-8BE1-5F46FB35E6B8"
     },
     {
       "class": "group",
@@ -109,6 +85,10 @@
     {
       "class": "rectangle",
       "id": "95145715-2461-4BB8-83A7-CF882CDE1389"
+    },
+    {
+      "class": "group",
+      "id": "A2FA7BAB-A828-48B5-8C50-D4079F9AD658"
     }
   ],
   "name": "touch-mobile",
