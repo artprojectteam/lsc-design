@@ -1,0 +1,178 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "70381A65-4100-4F4D-A867-6077CE998D50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 716,
+    "width": 320,
+    "x": 465,
+    "y": 164
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      8,
+      312
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "443467C0-A82D-4579-A2CA-91610EA2B715"
+    },
+    {
+      "class": "rectangle",
+      "id": "9E9AD122-E46B-49FB-B685-EB9243ECAEF5"
+    },
+    {
+      "class": "text",
+      "id": "D620F09B-6647-4165-A598-66C0D5B96496"
+    },
+    {
+      "class": "text",
+      "id": "80F0D670-E755-4E46-80B4-08FD658A81B7"
+    },
+    {
+      "class": "rectangle",
+      "id": "53458E5F-F29B-4A96-9478-C9184BFD8144"
+    },
+    {
+      "class": "text",
+      "id": "05C73C24-A9B8-4EB0-86B3-D15D0D6FE481"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8748D11E-DFCC-46DA-B8CD-257C3C825762"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA475276-B8ED-4796-A015-9544790F9B78"
+    },
+    {
+      "class": "text",
+      "id": "49F62E95-5FC0-47BC-8BCE-4A95B9BA0151"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50DD9853-6ABE-4180-A4CD-B49F8D3B84F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2945C83-9EA0-4D65-8E2C-E00CB440DE87"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D4A24C47-1C77-4BD0-A1AD-A5F6251734C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0882B4F1-FA23-4129-9633-29A91AD92374"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4202F84F-6C7C-4395-9C5D-46FED78CD058"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5E42DAC-D79F-48D6-A20C-058C5E536DB0"
+    },
+    {
+      "class": "group",
+      "id": "DCC9D1D8-129F-4732-AC33-EC8AB2957809"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E66058BB-2044-41D6-AB6F-75329C6F29A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "645E5798-B410-471F-9999-C94C11430323"
+    },
+    {
+      "class": "rectangle",
+      "id": "1525DE1D-589B-427D-80EF-AA8B9A67045B"
+    },
+    {
+      "class": "text",
+      "id": "B70C8B23-8F44-496B-9E97-6FF78CD641B5"
+    },
+    {
+      "class": "text",
+      "id": "80C42152-06E6-4186-89F5-A96D3D016A1E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 24,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+  },
+  "name": "touch_mobile_en",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
