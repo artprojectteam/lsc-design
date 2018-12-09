@@ -79,7 +79,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "DBB5C08A-467E-491E-8212-7BE533C1A006",
+  "sharedStyleID": "5753F44E-8DE3-4CE3-AEA3-54A68C4C600D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -107,9 +107,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4006838468573785,
-          "green": 0.6053933159696488,
-          "red": 0.9649766156462585
+          "blue": 0.9126009778911565,
+          "green": 0.4973063391208019,
+          "red": 0.383005062395016
         },
         "fillType": 0,
         "isEnabled": true,
