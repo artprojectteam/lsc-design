@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0C630026-922A-4275-A11F-D4C3F91AEA66",
-    "height": 30,
-    "width": 68,
-    "x": 168,
-    "y": 173
+    "height": 40,
+    "width": 94,
+    "x": 6,
+    "y": 355
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -37,19 +37,19 @@
       "_class": "overrideValue",
       "do_objectID": "BD3A944D-8CA5-400C-9CCD-60CB50C8D372",
       "overrideName": "79AA6FFE-306A-4124-AED8-17FA2CA5ED23_stringValue",
-      "value": "hour"
+      "value": "TIME"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "5C1474AA-46B7-419D-94CA-12AD71DC820D",
       "overrideName": "F6ABB5BE-20B4-47D8-885E-31521D8666F3_layerStyle",
-      "value": "5753F44E-8DE3-4CE3-AEA3-54A68C4C600D"
+      "value": "1E841D81-63F8-4D1E-8F7A-ABA4B594CC8A"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "61FBB522-01C3-4912-991A-B06CA98EFD6A",
       "overrideName": "79AA6FFE-306A-4124-AED8-17FA2CA5ED23_textStyle",
-      "value": "08C4C6F5-E00A-4BDD-8206-45D0C681E64F"
+      "value": "90A02DEE-75F9-436D-B3A9-190C1B2DF997"
     }
   ],
   "resizingConstraint": 63,

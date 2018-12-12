@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 716,
+    "height": 768,
     "width": 320,
     "x": 465,
     "y": 164
@@ -34,8 +34,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      8,
-      312
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -48,6 +46,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "8CCCE310-C079-4B65-997F-3451B34FE9FA"
+    },
     {
       "class": "rectangle",
       "id": "443467C0-A82D-4579-A2CA-91610EA2B715"
@@ -94,6 +96,22 @@
     },
     {
       "class": "symbolInstance",
+      "id": "EE91CBAF-8A49-4643-A34F-7DE9A5C95993"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DBF66D68-15BA-4EBF-BA1B-9A0C4882A7AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB3B8135-A993-42D5-B2FF-883564B65C17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F9C6604-1EB7-4C47-A9BE-480B2ACE8167"
+    },
+    {
+      "class": "symbolInstance",
       "id": "D4A24C47-1C77-4BD0-A1AD-A5F6251734C7"
     },
     {
@@ -102,7 +120,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "4202F84F-6C7C-4395-9C5D-46FED78CD058"
+      "id": "4DB28BE5-F71A-441A-8933-4B48E99AD446"
     },
     {
       "class": "symbolInstance",
@@ -131,24 +149,20 @@
     {
       "class": "text",
       "id": "80C42152-06E6-4186-89F5-A96D3D016A1E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "45AF4EDF-D148-47E8-BFBA-778A12B2124A"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 24,
+    "columnWidth": 23.55555555555556,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 16,
+    "gutterWidth": 12,
     "guttersOutside": true,
     "horizontalOffset": 0,
-    "isEnabled": false,
-    "numberOfColumns": 8,
+    "isEnabled": true,
+    "numberOfColumns": 9,
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },

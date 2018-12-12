@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "019578DC-6FC7-4293-B5E6-5D6836571DD0",
     "height": 45,
-    "width": 80,
-    "x": 160,
+    "width": 81,
+    "x": 163,
     "y": 135
   },
   "hasClippingMask": false,
@@ -38,6 +38,12 @@
       "do_objectID": "D61DDCFC-50B1-4B2F-9440-678B7C79B7B8",
       "overrideName": "C970BD02-2FA1-4664-8E48-A00A63BB8FBF_stringValue",
       "value": "."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3F5686C-9C61-4D29-94F5-65B8306998DB",
+      "overrideName": "C970BD02-2FA1-4664-8E48-A00A63BB8FBF_textStyle",
+      "value": "B185FFDD-4F56-4BEF-B36A-6440057A898A"
     }
   ],
   "resizingConstraint": 63,
