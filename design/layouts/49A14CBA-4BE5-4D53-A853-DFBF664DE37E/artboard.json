@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CF4185AE-1E8D-4EA8-8161-2DF17689F466",
+  "do_objectID": "49A14CBA-4BE5-4D53-A853-DFBF664DE37E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1498,
-    "width": 768,
-    "x": 1305,
+    "height": 1565,
+    "width": 1401,
+    "x": 3040,
     "y": 167
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,64 +48,68 @@
   "layers": [
     {
       "class": "group",
-      "id": "7A012937-FF04-46F1-86E7-A698582AE6C2"
+      "id": "9736847F-BC9D-4DF0-91F0-E0F6F694CD24"
     },
     {
       "class": "group",
-      "id": "CF8D5C93-078E-42A9-9409-AD9A3042C10F"
+      "id": "65B84E52-71AD-4F29-9BB1-2D85A0765D13"
     },
     {
       "class": "group",
-      "id": "67B13232-0A01-4EF5-A961-C03991679AD1"
+      "id": "6E5D9B39-A633-4D46-9B42-038F0AB32704"
     },
     {
       "class": "group",
-      "id": "28AE209B-F611-477C-B224-B561D63CDE1C"
+      "id": "16C2940A-1918-430A-AFFE-124B8C55CE52"
     },
     {
       "class": "group",
-      "id": "8AC1D873-6C1A-4629-8D1E-225E0EB75676"
+      "id": "426622CE-0184-4967-A15B-485391FE4636"
     },
     {
       "class": "group",
-      "id": "10D7F461-17D5-4529-AE7E-1E3DF9C72527"
+      "id": "F85C84A1-8374-4D5E-A570-63016E4551CD"
     },
     {
       "class": "group",
-      "id": "8978579C-DBE5-479A-8477-DE4552ADAE76"
+      "id": "A2E81E0E-1174-4E02-BFC1-C77B2739FDC0"
     },
     {
       "class": "group",
-      "id": "AC45BFB0-2A69-4993-9FD0-CFF720D0838B"
+      "id": "DC986AD9-4F7C-4A81-A937-6B4AEE4D209F"
     },
     {
       "class": "group",
-      "id": "D2ACAD00-5C5D-41B5-BED0-BA87BB8C8830"
+      "id": "3A819A76-1C9B-4997-9F31-F581E9220FFE"
+    },
+    {
+      "class": "group",
+      "id": "B6545906-8570-46DE-AF35-D07D9782BB80"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 46.66666666666666,
+    "columnWidth": 59,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
-    "gutterHeight": 10,
-    "gutterWidth": 15.83333333333333,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
     "guttersOutside": true,
-    "horizontalOffset": 8,
+    "horizontalOffset": 100,
     "isEnabled": true,
-    "numberOfColumns": 12,
-    "rowHeightMultiplication": 2,
-    "totalWidth": 750
+    "numberOfColumns": 16,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
   },
-  "name": "tablet - touch",
+  "name": "desktop",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
-    "name": "iPad",
-    "offersLandscapeVariant": 1,
-    "width": 768
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
   },
   "resizesContent": false,
   "resizingConstraint": 63,

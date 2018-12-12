@@ -1,11 +1,11 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0299C79C-A00B-41BE-A3FF-E2C0F47F8776",
+  "do_objectID": "CFA22490-C77F-4331-AE5A-6AED0581585B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5BEA360D-F0D5-40AC-A576-1BDEF92EAC55",
+    "do_objectID": "FBED3248-7C09-42D2-9A4F-0D49D1CC72C9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,42 +16,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D886C74A-1C45-4A98-8692-59068BC71CA7",
-    "height": 70,
-    "width": 735,
-    "x": 15,
-    "y": 861
+    "do_objectID": "A9090DA1-5793-44D4-8082-D5899B21EEE1",
+    "height": 60,
+    "width": 284,
+    "x": 0,
+    "y": 0
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "tablet_btn",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "1B5246E6-3CC3-4422-86CB-5068E0651D69"
-    },
-    {
-      "class": "text",
-      "id": "3BA2C85C-D0BB-495B-92DC-8AEEE70DD266"
+      "_class": "overrideValue",
+      "do_objectID": "32E26506-015A-4FBD-AA23-D7A2DDA19E92",
+      "overrideName": "402E13B9-0890-4C56-8567-0007AB220C01_stringValue",
+      "value": "TIME"
     }
   ],
-  "name": "ad",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D23B81A6-5CC2-4670-B6D2-E9A8AE4E70EF",
+    "do_objectID": "652C3D54-47A6-4001-9ADB-A15BBA195935",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "88818536-B483-4BC0-BC35-05B5F12BD841",
+  "verticalSpacing": 0
 }
