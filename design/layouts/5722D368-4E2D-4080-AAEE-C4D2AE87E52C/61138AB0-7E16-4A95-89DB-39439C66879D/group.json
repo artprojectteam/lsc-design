@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "61138AB0-7E16-4A95-89DB-39439C66879D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 183,
+    "width": 298,
+    "x": 11,
+    "y": 452
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BE274482-84E7-46BA-95BB-7EEF01FAC5A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E67B0AC-ED6E-4969-B738-6928CB346201"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "356A3210-0F1D-4D68-9B21-FF38DD5E5AFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5814165C-7DB8-4F26-B9E7-4F996BB58956"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06E05D2C-7E44-4483-8BD5-4FBEB1A7BE1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0ACF8FEE-21E2-4413-9366-F56383236C0D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C2F3A03-35E1-4E98-9413-03020AF1AD82"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9D8F7B1-2674-4998-BDFD-AB57E7062C54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78738442-48A6-4395-88E8-560412731910"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1F145F7-D8EB-4404-BD93-DE90665E09BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "791D0D05-B848-4B15-BD39-645966624A2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59FD6892-13BD-4F28-998C-D44C2092A409"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD426F7D-11DE-4FB1-AE86-9D37F5497CBD"
+    },
+    {
+      "class": "group",
+      "id": "E0EC0DB6-9A11-473D-95A7-9BB2918CE518"
+    }
+  ],
+  "name": "mobile_input",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
