@@ -23,23 +23,26 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 1
           },
-          "textStyleVerticalAlignmentKey": 0
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 1
         },
-        "length": 9,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "© arc-one"
+    "string": "issue"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B70C8B23-8F44-496B-9E97-6FF78CD641B5",
+  "do_objectID": "80C42152-06E6-4186-89F5-A96D3D016A1E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "465C104D-00AE-4309-8690-CA049744B4C9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "8B254299-1348-49AC-977E-34A7C1AB8EE3",
     "height": 17,
-    "width": 67,
-    "x": 5,
-    "y": 740
+    "width": 34,
+    "x": 281,
+    "y": 11
   },
-  "glyphBounds": "{{0, 3}, {67, 11}}",
+  "glyphBounds": "{{0, 2}, {34, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "© arc-one",
+  "name": "issue",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -72,11 +76,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "2569F75F-7A71-4B94-A75E-B3B689B6D083",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "2A1726EA-408D-47DC-861A-77D461A061A1",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,9 +101,11 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 1
         },
-        "textStyleVerticalAlignmentKey": 0
+        "strikethroughStyle": 0,
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 1
       },
       "verticalAlignment": 0
     },

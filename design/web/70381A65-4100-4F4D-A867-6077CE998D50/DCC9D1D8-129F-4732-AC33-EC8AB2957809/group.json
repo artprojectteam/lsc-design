@@ -134,8 +134,8 @@
       "id": "4C6F4E35-25B8-437F-903F-92DFD147979B"
     }
   ],
-  "name": "Group 2",
-  "nameIsFixed": false,
+  "name": "input_area",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Rubik-Regular",
-              "size": 14
+              "size": 20
             }
           },
           "kerning": 0,
@@ -25,24 +25,21 @@
             "_class": "paragraphStyle",
             "alignment": 1
           },
-          "strikethroughStyle": 0,
-          "textStyleVerticalAlignmentKey": 0,
-          "underlineStyle": 1
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "issue"
+    "string": "10,000,000.00"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "80C42152-06E6-4186-89F5-A96D3D016A1E",
+  "do_objectID": "05C73C24-A9B8-4EB0-86B3-D15D0D6FE481",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "465C104D-00AE-4309-8690-CA049744B4C9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8B254299-1348-49AC-977E-34A7C1AB8EE3",
-    "height": 17,
-    "width": 34,
-    "x": 281,
-    "y": 739
+    "height": 24,
+    "width": 138,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{0, 2}, {34, 12}}",
+  "glyphBounds": "{{0, 4}, {137, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "issue",
+  "name": "10,000,000.00",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -76,26 +72,24 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2569F75F-7A71-4B94-A75E-B3B689B6D083",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "2A1726EA-408D-47DC-861A-77D461A061A1",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Regular",
-            "size": 14
+            "size": 20
           }
         },
         "kerning": 0,
@@ -103,9 +97,7 @@
           "_class": "paragraphStyle",
           "alignment": 1
         },
-        "strikethroughStyle": 0,
-        "textStyleVerticalAlignmentKey": 0,
-        "underlineStyle": 1
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

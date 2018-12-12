@@ -16,27 +16,54 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Rubik-Regular",
-              "size": 20
+              "name": "LucidaGrande",
+              "size": 14
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 1,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Rubik-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 1
       }
     ],
-    "string": "10,000,000.00"
+    "string": "μs"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "05C73C24-A9B8-4EB0-86B3-D15D0D6FE481",
+  "do_objectID": "49F62E95-5FC0-47BC-8BCE-4A95B9BA0151",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +77,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 138,
-    "x": 174,
-    "y": 49
+    "height": 18,
+    "width": 16,
+    "x": 122,
+    "y": 20
   },
-  "glyphBounds": "{{0, 4}, {137, 17}}",
+  "glyphBounds": "{{1, 6}, {15, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "10,000,000.00",
+  "name": "μs",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -88,14 +115,14 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Rubik-Regular",
-            "size": 20
+            "name": "LucidaGrande",
+            "size": 14
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },

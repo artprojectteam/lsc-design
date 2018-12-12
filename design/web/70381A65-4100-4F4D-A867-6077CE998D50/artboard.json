@@ -47,80 +47,28 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "8CCCE310-C079-4B65-997F-3451B34FE9FA"
+      "class": "group",
+      "id": "28658803-1A17-4A7E-9D28-AE42A592F6E2"
     },
     {
-      "class": "rectangle",
-      "id": "443467C0-A82D-4579-A2CA-91610EA2B715"
+      "class": "group",
+      "id": "D7FE8713-0A43-4518-BC89-23B1DD1DE44F"
     },
     {
-      "class": "rectangle",
-      "id": "9E9AD122-E46B-49FB-B685-EB9243ECAEF5"
+      "class": "group",
+      "id": "71DB7C91-9F17-4A73-A428-99B04712CCF4"
     },
     {
-      "class": "text",
-      "id": "D620F09B-6647-4165-A598-66C0D5B96496"
+      "class": "group",
+      "id": "A1673359-E8A8-491D-8184-C9B1C5B907F7"
     },
     {
-      "class": "text",
-      "id": "80F0D670-E755-4E46-80B4-08FD658A81B7"
+      "class": "group",
+      "id": "6C15112E-E082-432A-8704-68CA7477FBB9"
     },
     {
-      "class": "rectangle",
-      "id": "53458E5F-F29B-4A96-9478-C9184BFD8144"
-    },
-    {
-      "class": "text",
-      "id": "05C73C24-A9B8-4EB0-86B3-D15D0D6FE481"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8748D11E-DFCC-46DA-B8CD-257C3C825762"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FA475276-B8ED-4796-A015-9544790F9B78"
-    },
-    {
-      "class": "text",
-      "id": "49F62E95-5FC0-47BC-8BCE-4A95B9BA0151"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "50DD9853-6ABE-4180-A4CD-B49F8D3B84F1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D2945C83-9EA0-4D65-8E2C-E00CB440DE87"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EE91CBAF-8A49-4643-A34F-7DE9A5C95993"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DBF66D68-15BA-4EBF-BA1B-9A0C4882A7AA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AB3B8135-A993-42D5-B2FF-883564B65C17"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8F9C6604-1EB7-4C47-A9BE-480B2ACE8167"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D4A24C47-1C77-4BD0-A1AD-A5F6251734C7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0882B4F1-FA23-4129-9633-29A91AD92374"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4DB28BE5-F71A-441A-8933-4B48E99AD446"
+      "class": "group",
+      "id": "5EF11B1D-33FD-4889-AEC0-B8F6FF0AE1CB"
     },
     {
       "class": "symbolInstance",
@@ -131,24 +79,8 @@
       "id": "DCC9D1D8-129F-4732-AC33-EC8AB2957809"
     },
     {
-      "class": "symbolInstance",
-      "id": "E66058BB-2044-41D6-AB6F-75329C6F29A4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "645E5798-B410-471F-9999-C94C11430323"
-    },
-    {
-      "class": "rectangle",
-      "id": "1525DE1D-589B-427D-80EF-AA8B9A67045B"
-    },
-    {
-      "class": "text",
-      "id": "B70C8B23-8F44-496B-9E97-6FF78CD641B5"
-    },
-    {
-      "class": "text",
-      "id": "80C42152-06E6-4186-89F5-A96D3D016A1E"
+      "class": "group",
+      "id": "BD16FC67-CDF7-4F6F-BB6E-FF7E1D1706AB"
     }
   ],
   "layout": {
@@ -166,7 +98,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "touch_mobile_en",
+  "name": "touch_mobile",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
