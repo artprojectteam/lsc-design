@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 252,
-    "width": 143,
-    "x": 167,
+    "width": 144,
+    "x": 166,
     "y": 112
   },
   "hasClickThrough": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",

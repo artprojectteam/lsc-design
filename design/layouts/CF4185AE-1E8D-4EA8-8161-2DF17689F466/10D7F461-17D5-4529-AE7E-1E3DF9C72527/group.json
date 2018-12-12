@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "10D7F461-17D5-4529-AE7E-1E3DF9C72527",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 483,
+    "x": 266,
+    "y": 617
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "686154D3-4AB9-474F-9A88-7E69B5EBC2A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B3920F3-D232-4B42-9DC3-A29F2239CBE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2591474B-0F70-4FCF-B2CB-B2DF1B6B4ACA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6079EC3F-7051-4D5F-AC5D-95F1ED7AA5E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C734D1A8-219F-4DD1-9524-60FF2260926B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2AF73068-7877-4576-8F4E-6D7147CA8542"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB5A78AF-9267-40A3-AFF5-9A088CEC36B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A931823-0D0D-4CE5-B9C3-FEB2554AB2C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D6F44E4-CEDF-4593-B1FF-ECA732EE5EA9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E57F5433-6195-4AE9-968F-755EA5699121"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D6F1C41-03F9-42C6-B67A-01007A816833"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F80492E1-811F-4364-BDD7-0ABA174294F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29E37913-FF7A-4146-87E8-EA3A3811115F"
+    },
+    {
+      "class": "group",
+      "id": "E5D38336-2170-483A-A285-C87752AAB9B3"
+    }
+  ],
+  "name": "touch_input",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

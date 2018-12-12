@@ -50,11 +50,23 @@
     },
     {
       "class": "symbolMaster",
+      "id": "5B3FB433-ED65-4046-ADDF-37BFBC5B693C"
+    },
+    {
+      "class": "symbolMaster",
       "id": "C39CCF88-18FE-470F-8F6B-949C0EE0789B"
     },
     {
       "class": "symbolMaster",
+      "id": "9E752878-F37E-4DCE-B65C-BD97E02CA8B9"
+    },
+    {
+      "class": "symbolMaster",
       "id": "0DBCAF92-3CF1-4820-8FE4-6751CD46B244"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "53D310EB-8CF6-4C53-98D7-89B863FED490"
     }
   ],
   "name": "settings",
