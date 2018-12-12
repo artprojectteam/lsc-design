@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "64A65007-13D5-411D-A016-91F2545FAE33",
+  "do_objectID": "AE1DDF5D-341F-4911-AD70-0E520499CD45",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 252,
-    "width": 143,
-    "x": 167,
-    "y": 112
+    "height": 30,
+    "width": 300,
+    "x": 10,
+    "y": 452
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,18 +27,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "029F523F-BAA3-4DBD-9017-B8677DFC3AE9"
+      "id": "52025BA6-888A-49C1-88D1-1AEC5096CDF2"
     },
     {
-      "class": "symbolInstance",
-      "id": "7B849C30-5A17-434B-A101-93DDF6588D6D"
+      "class": "text",
+      "id": "33EC7375-305E-4B31-8B73-0CD154D3C7D2"
     }
   ],
-  "name": "result",
+  "name": "mouse_input",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

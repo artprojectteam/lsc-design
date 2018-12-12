@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "02C8DDFA-2D8C-45A3-8B6D-4F27E9BF5A06",
+  "do_objectID": "973D7712-5FBD-4EA9-BC4B-CD68E0D10E8C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "1E84315E-841C-408F-9A32-AE4B212A662C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,53 +16,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "do_objectID": "FF4EAF94-88ED-458D-963E-F8A32CE47CCD",
+    "height": 30,
+    "width": 66,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "mobile_btn",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "artboard",
-      "id": "5722D368-4E2D-4080-AAEE-C4D2AE87E52C"
-    },
-    {
-      "class": "artboard",
-      "id": "062FEC04-9834-468F-892B-4B2836753BA8"
+      "_class": "overrideValue",
+      "do_objectID": "EC4C6088-B91C-4A0F-9184-735DDDD6C65D",
+      "overrideName": "1BA00AAD-B3E2-4DEA-B952-936D698D206E_stringValue",
+      "value": "μs"
     }
   ],
-  "name": "layouts",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "9D6A90A0-9F91-4B02-8BF5-5987E7E05E6F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "719677A0-E501-4C7D-9286-83012C15805E",
+  "verticalSpacing": 0
 }

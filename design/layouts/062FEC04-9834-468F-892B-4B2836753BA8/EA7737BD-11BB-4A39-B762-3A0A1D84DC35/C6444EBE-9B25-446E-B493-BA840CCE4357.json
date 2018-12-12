@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "02C8DDFA-2D8C-45A3-8B6D-4F27E9BF5A06",
+  "do_objectID": "C6444EBE-9B25-446E-B493-BA840CCE4357",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "4E98BEF6-2841-42EF-9E99-3D911A4B8EF8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,53 +16,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "do_objectID": "DFF6F056-0B22-4B2D-9559-9685B0538077",
+    "height": 40,
+    "width": 92,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "mobile_btn",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "artboard",
-      "id": "5722D368-4E2D-4080-AAEE-C4D2AE87E52C"
-    },
-    {
-      "class": "artboard",
-      "id": "062FEC04-9834-468F-892B-4B2836753BA8"
+      "_class": "overrideValue",
+      "do_objectID": "5D332E19-7C58-4605-ACC3-82874FDA96CF",
+      "overrideName": "1BA00AAD-B3E2-4DEA-B952-936D698D206E_stringValue",
+      "value": "TIME"
     }
   ],
-  "name": "layouts",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C244704F-CC0C-4F79-B523-B0B663C73144",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "719677A0-E501-4C7D-9286-83012C15805E",
+  "verticalSpacing": 0
 }

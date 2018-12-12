@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FB1FA518-13C3-440E-A2C4-44AF00AF5B62",
+  "do_objectID": "D5AFC6F9-7D98-410C-A9DB-77187DE4C317",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "014A707D-E2FF-4535-ADA5-284DE608F9CE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,9 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "8EAFD57A-8747-40F7-B9E8-18BD351D146C",
     "height": 40,
     "width": 92,
-    "x": 208,
+    "x": 104,
     "y": 0
   },
   "hasClippingMask": false,
@@ -28,26 +30,26 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "mobile_btn",
+  "name": "mobile_btn copy 6",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "C44C46E5-8919-4D45-9A2E-3E95EA76AAEF",
-      "overrideName": "1BA00AAD-B3E2-4DEA-B952-936D698D206E_stringValue",
-      "value": "COPY"
+      "do_objectID": "252EBD1E-227B-4C6A-9BA8-71B7F20A9A5C",
+      "overrideName": "91918AEE-CA29-448D-B24E-F5909B0C339B_layerStyle",
+      "value": "7BA1AAEE-4B46-47A1-BCB3-E10D6B128D05"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "D10C73AD-0C22-49A1-B481-E2C650A65B9D",
+      "do_objectID": "B886870A-D83F-4CF6-9823-7C87163A2277",
       "overrideName": "1BA00AAD-B3E2-4DEA-B952-936D698D206E_textStyle",
       "value": "E015C3CA-CEB1-4E6F-9706-B5080FA47DE1"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "8034C32A-A89B-45C1-8FD2-044FBC73D786",
-      "overrideName": "91918AEE-CA29-448D-B24E-F5909B0C339B_layerStyle",
-      "value": "394FCFC0-8B2A-4E8B-8008-A11020A64B63"
+      "do_objectID": "6CB6E152-A498-4D13-B447-99032849E363",
+      "overrideName": "1BA00AAD-B3E2-4DEA-B952-936D698D206E_stringValue",
+      "value": "DISTANCE"
     }
   ],
   "resizingConstraint": 63,
@@ -57,6 +59,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "9226569B-0B87-44CE-96A8-8661BCA3266C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
