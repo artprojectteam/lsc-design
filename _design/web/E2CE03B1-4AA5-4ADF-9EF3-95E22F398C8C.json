@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CB9E4449-B188-4981-9066-0FA2CCBD7298",
+  "do_objectID": "E2CE03B1-4AA5-4ADF-9EF3-95E22F398C8C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,9 +22,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 768,
-    "x": 885,
+    "height": 568,
+    "width": 320,
+    "x": 65,
     "y": 164
   },
   "hasBackgroundColor": false,
@@ -47,14 +47,29 @@
   "layerListExpandedType": 0,
   "layers": [
   ],
-  "name": "touch_tablet",
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 24.22222222222222,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 10.22222222222222,
+    "guttersOutside": true,
+    "horizontalOffset": 5,
+    "isEnabled": true,
+    "numberOfColumns": 9,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 310
+  },
+  "name": "touch_mobile",
   "nameIsFixed": true,
   "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "iPad",
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
     "offersLandscapeVariant": 1,
-    "width": 768
+    "width": 320
   },
   "resizesContent": false,
   "resizingConstraint": 63,

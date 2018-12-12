@@ -3,6 +3,13 @@
   "assets": {
     "_class": "assetCollection",
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8588235294117647,
+        "green": 0.4313725490196081,
+        "red": 0.3137254901960784
+      }
     ],
     "gradients": [
     ],
@@ -15,7 +22,7 @@
     ]
   },
   "colorSpace": 0,
-  "do_objectID": "49932C48-0F2B-4D24-91C1-4EFB86F111A8",
+  "do_objectID": "007CDB87-F25C-4BB7-97AC-BC17DDB6128F",
   "foreignLayerStyles": [
   ],
   "foreignSymbols": [
@@ -33,6 +40,9 @@
     "version": 112
   },
   "pages": [
-    "Page 1"
+    "web",
+    "settings",
+    "logo",
+    "Symbols"
   ]
 }
