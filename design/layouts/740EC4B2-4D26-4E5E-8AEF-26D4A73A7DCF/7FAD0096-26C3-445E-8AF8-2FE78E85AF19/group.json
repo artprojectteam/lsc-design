@@ -44,7 +44,7 @@
       "id": "C7F43AC7-2147-4CA7-8665-5CFF4942091C"
     }
   ],
-  "name": "select_unit",
+  "name": "change_unit",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

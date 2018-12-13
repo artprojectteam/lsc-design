@@ -7,6 +7,15 @@
     "_class": "exportOptions",
     "do_objectID": "01F5E44C-7202-43B2-9AD4-CF9136598A91",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -40,8 +49,8 @@
       "id": "803EF1E0-1B36-4A1A-B8AE-104FAC5DE288"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "icon_del",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
