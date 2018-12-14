@@ -22,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1565,
+    "height": 1108,
     "width": 1401,
     "x": 3040,
     "y": 167
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,6 +68,10 @@
     },
     {
       "class": "group",
+      "id": "DD32CA05-5E2D-4CC2-B9E8-591DF98B431E"
+    },
+    {
+      "class": "group",
       "id": "F85C84A1-8374-4D5E-A570-63016E4551CD"
     },
     {
@@ -77,10 +81,6 @@
     {
       "class": "group",
       "id": "DC986AD9-4F7C-4A81-A937-6B4AEE4D209F"
-    },
-    {
-      "class": "group",
-      "id": "3A819A76-1C9B-4997-9F31-F581E9220FFE"
     },
     {
       "class": "group",

@@ -1,10 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0AAEBE66-6B68-4CE5-B7AC-D5D2A07BB851",
+  "do_objectID": "1FA88958-5845-4790-B0FC-B452F3C0F7BE",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "846A804D-CE9F-460C-852D-FD6915AF8895",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,47 +16,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 196,
+    "do_objectID": "67DA616F-ADF0-4556-9EA2-BFCD7FE6194E",
+    "height": 90,
+    "width": 483,
     "x": 0,
-    "y": 0
+    "y": 49
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "mobile_btn",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "432B89AC-A434-4FB7-B1A7-C652D67C9AAB",
-      "overrideName": "1BA00AAD-B3E2-4DEA-B952-936D698D206E_stringValue",
-      "value": "preview code"
+      "class": "rectangle",
+      "id": "BD726658-F65C-4E1C-9FC5-D4CBA89E7621"
     },
     {
-      "_class": "overrideValue",
-      "do_objectID": "59E719C1-B808-4B9B-953F-0D0DD07711E1",
-      "overrideName": "91918AEE-CA29-448D-B24E-F5909B0C339B_layerStyle",
-      "value": "8854C99B-2151-47EB-AE27-9A70A8CC3EBC"
+      "class": "text",
+      "id": "FB746C20-9B5A-49B6-BF1D-2AA12038CAEB"
     }
   ],
+  "name": "Group 3",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D98BCB20-6F5B-47F1-82AD-6CCBC8F2F271",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "719677A0-E501-4C7D-9286-83012C15805E",
-  "verticalSpacing": 0
+  }
 }

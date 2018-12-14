@@ -9,38 +9,38 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HiraginoSans-W3",
-              "size": 18
+              "name": "Rubik-Regular",
+              "size": 28
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "code area"
+    "string": "Formula"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B7820B68-52CE-4D0D-9A21-9D2474BDBAE3",
+  "do_objectID": "D4141D95-283D-4CD1-8233-D1CD81DE0802",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "425FF686-5619-450C-9844-CF06F9802125",
+    "do_objectID": "EF2989AE-6DAC-4768-9464-775FCCDE952C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A612C8F2-ACF1-4DBF-A4F0-CBA3578E5CD6",
-    "height": 18,
-    "width": 89,
-    "x": 106,
-    "y": 64
+    "do_objectID": "18DC57A6-35EB-4DE0-B07D-078C62B35160",
+    "height": 33,
+    "width": 107,
+    "x": 1,
+    "y": 0
   },
-  "glyphBounds": "{{0, 2}, {88, 15}}",
+  "glyphBounds": "{{2, 6}, {103, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,40 +66,41 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "code area",
+  "name": "Formula",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "EEF85F30-7E33-4E80-BDE9-A585961B7FFA",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "319BEDE1-5D15-4C13-98F5-1D04746C179A",
+    "do_objectID": "FB4A4D7F-0F48-4F4C-AF7F-FC6A5027A6E3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5C2903F5-EF82-4F21-9171-BAB5CD059330",
+      "do_objectID": "FE341539-BA79-4D96-B6C1-BA822AF9F4E6",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HiraginoSans-W3",
-            "size": 18
+            "name": "Rubik-Regular",
+            "size": 28
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },

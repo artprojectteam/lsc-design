@@ -25,9 +25,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F8CE1909-6B1C-4966-B876-83BD8B7564DB",
-    "height": 1426,
-    "width": 768,
-    "x": 2173,
+    "height": 1052,
+    "width": 769,
+    "x": 2172,
     "y": 167
   },
   "hasBackgroundColor": false,
@@ -72,15 +72,15 @@
     },
     {
       "class": "group",
+      "id": "334040EA-9485-4861-A048-E4C197ECFDDE"
+    },
+    {
+      "class": "group",
       "id": "AE31D6F5-E304-46F6-85B5-C8D47E7AAB62"
     },
     {
       "class": "group",
       "id": "0299C79C-A00B-41BE-A3FF-E2C0F47F8776"
-    },
-    {
-      "class": "group",
-      "id": "770E236D-A966-4F94-B351-8588794995F5"
     },
     {
       "class": "group",

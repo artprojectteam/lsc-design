@@ -41,15 +41,9 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A7C203E9-CA3E-4AA4-BB94-F7CA2BD83CDA",
-      "overrideName": "1BA00AAD-B3E2-4DEA-B952-936D698D206E_textStyle",
-      "value": "E015C3CA-CEB1-4E6F-9706-B5080FA47DE1"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "EDAA3090-2A79-4A85-89F5-D06742EDF3D3",
       "overrideName": "91918AEE-CA29-448D-B24E-F5909B0C339B_layerStyle",
-      "value": "7BA1AAEE-4B46-47A1-BCB3-E10D6B128D05"
+      "value": "8854C99B-2151-47EB-AE27-9A70A8CC3EBC"
     }
   ],
   "resizingConstraint": 63,

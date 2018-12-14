@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 351,
-    "width": 731,
-    "x": 16,
-    "y": 1035
+    "height": 139,
+    "width": 483,
+    "x": 267,
+    "y": 932
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,19 +27,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "A87E73D5-DE8B-4AF3-B9D5-9745770D3D6F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "90C4943D-041F-4191-8A89-794CC50A2636"
-    },
     {
       "class": "group",
       "id": "4555E555-1D64-40B7-894D-9D21D2EB6049"
+    },
+    {
+      "class": "text",
+      "id": "E5BFD9DC-5986-41A9-BDCB-87DBAB437313"
     }
   ],
   "name": "code",

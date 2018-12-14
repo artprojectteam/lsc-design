@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Rubik-Regular",
-              "size": 18
+              "size": 28
             }
           },
           "kerning": 0,
@@ -27,20 +27,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "10000.00"
+    "string": "Formula"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "231E657C-00B9-4A6B-89EF-114D5EC2561A",
+  "do_objectID": "D91556B3-F72B-43AA-B296-12A1162C4DFD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "ED5B29A9-0F64-4AF9-A2A3-57B51AEFBBC5",
+    "do_objectID": "0FC807C7-2FE0-41F8-A766-292D87379AF5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5A1AFD1F-2936-43BD-8B6F-F1B9C328712D",
-    "height": 22,
-    "width": 81,
-    "x": 467,
-    "y": 15
+    "do_objectID": "97954E2F-A392-48FD-9F6B-7D0F223A89B8",
+    "height": 33,
+    "width": 130,
+    "x": 1,
+    "y": 0
   },
-  "glyphBounds": "{{0, 4}, {80, 14}}",
+  "glyphBounds": "{{2, 6}, {103, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,22 +66,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "10000.00",
+  "name": "Formula",
   "nameIsFixed": false,
-  "resizingConstraint": 45,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "70FA8765-85F3-4F53-A76B-F9006295C9C1",
+  "sharedStyleID": "EEF85F30-7E33-4E80-BDE9-A585961B7FFA",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "40035909-CBE9-4CDC-9678-39633DCF9F05",
+    "do_objectID": "DEA977F2-11A1-48F8-813D-573D6EFDF953",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "9622CF65-88A1-48AD-83AA-722488696DA4",
+      "do_objectID": "D641C949-55CD-4083-9537-A487B61D2B40",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -94,7 +94,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Regular",
-            "size": 18
+            "size": 28
           }
         },
         "kerning": 0,

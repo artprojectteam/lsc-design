@@ -9,38 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HiraginoSans-W3",
-              "size": 18
+              "name": "Rubik-Regular",
+              "size": 28
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "code area"
+    "string": "Formula"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DCCAB26E-4710-445B-955D-B9E06A242087",
+  "do_objectID": "E5BFD9DC-5986-41A9-BDCB-87DBAB437313",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "12AB330E-48D0-4452-93FD-F3F5F38D5CF2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "027D25C9-0F2E-4851-917D-B259C865AC0F",
-    "height": 18,
-    "width": 261,
-    "x": 313,
-    "y": 227
+    "height": 33,
+    "width": 107,
+    "x": 1,
+    "y": 0
   },
-  "glyphBounds": "{{87, 2}, {87, 15}}",
+  "glyphBounds": "{{2, 6}, {103, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,40 +64,40 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "code area",
+  "name": "Formula",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "EEF85F30-7E33-4E80-BDE9-A585961B7FFA",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4503CBB1-0E08-4FEC-96E3-8FB0CD33A081",
+    "do_objectID": "96A2EA08-F13E-47CD-844C-CE6E356CEA14",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "8F20DA6C-3714-4FF5-A04F-6FF1A18F9D61",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HiraginoSans-W3",
-            "size": 18
+            "name": "Rubik-Regular",
+            "size": 28
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -107,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
