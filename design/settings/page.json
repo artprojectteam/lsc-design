@@ -75,6 +75,10 @@
     {
       "class": "symbolMaster",
       "id": "0AF97884-FC0F-4985-81B9-075F82874FF2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "923B374A-D457-49F3-BB9B-8C7DB4DB31FF"
     }
   ],
   "name": "settings",

@@ -9,13 +9,22 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 234,
+  "changeIdentifier": 236,
   "clippingMaskMode": 0,
   "do_objectID": "0D2818E1-BAEC-41E2-A39C-2B672159F50F",
   "exportOptions": {
     "_class": "exportOptions",
     "do_objectID": "82FDE1C1-D3B0-4EB2-B262-636A978D4C69",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
