@@ -1,0 +1,114 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1CA1B2F5-E6EA-48A3-8168-9F2AB98B20CA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 630,
+    "width": 1200,
+    "x": -601,
+    "y": -315
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0CB25121-333B-434E-A2F6-2F9289B5A564"
+    },
+    {
+      "class": "rectangle",
+      "id": "C5E32D0F-39FE-4CB0-94F0-016DA350A19A"
+    },
+    {
+      "class": "rectangle",
+      "id": "B30D814E-9B49-4BA7-9CDD-B9AC1B68CAAF"
+    },
+    {
+      "class": "rectangle",
+      "id": "C3A3B9F9-12A0-4654-8A90-F17EB60DE8DF"
+    },
+    {
+      "class": "rectangle",
+      "id": "580605AE-2468-486F-8D90-CC4BAF66C08B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98F54FBB-4670-45A3-9BF8-2A0F08A06913"
+    },
+    {
+      "class": "text",
+      "id": "F05ADD0F-0B5B-4A68-A935-C1346232D874"
+    }
+  ],
+  "name": "lsc-ogp",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 630,
+    "name": "ogp",
+    "offersLandscapeVariant": 0,
+    "width": 1200
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
