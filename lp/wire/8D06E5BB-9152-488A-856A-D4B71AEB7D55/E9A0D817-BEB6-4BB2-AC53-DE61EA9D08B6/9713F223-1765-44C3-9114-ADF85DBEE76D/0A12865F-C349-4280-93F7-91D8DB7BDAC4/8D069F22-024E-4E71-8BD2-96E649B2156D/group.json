@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D069F22-024E-4E71-8BD2-96E649B2156D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0D2F2EA-C919-4576-A9E5-49F2EB9F64D0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A952D591-9800-4115-BD3D-39763DB9C983",
+    "height": 390.0402144772118,
+    "width": 188.1776416539051,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5EBD4793-4340-4FEE-86F7-B4DED6D1EE4E"
+    },
+    {
+      "class": "oval",
+      "id": "D100B152-8DF7-4F3D-8382-B1F80BBF2AE3"
+    }
+  ],
+  "name": "Oval 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "CAC472AA-A3DF-4FDD-B391-53548EE515E6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.897959183673469,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "02EEC11A-1A91-4429-87C6-622E07060FB8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

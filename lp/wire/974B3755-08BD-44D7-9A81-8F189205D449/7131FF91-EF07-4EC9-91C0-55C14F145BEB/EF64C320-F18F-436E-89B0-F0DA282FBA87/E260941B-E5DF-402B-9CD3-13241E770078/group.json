@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E260941B-E5DF-402B-9CD3-13241E770078",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A3F2DE6F-93FB-4462-88E1-88F9FC2768FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60CD7C01-227C-4EE1-8D50-4829F22F46E0",
+    "height": 173,
+    "width": 98,
+    "x": 7.12468193384223,
+    "y": 27.29056603773583
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4FDC09C3-5D46-499D-A599-AFAA9FC16EB2"
+    },
+    {
+      "class": "bitmap",
+      "id": "4CF99487-9E58-487F-9DB4-7B14D51451AA"
+    }
+  ],
+  "name": "Your Design Here",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "81E7B805-C4B9-4598-B298-B353756C26C2",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.897959183673469,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "02A6DCF2-1146-44AF-B1B9-8D28BE998F99",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

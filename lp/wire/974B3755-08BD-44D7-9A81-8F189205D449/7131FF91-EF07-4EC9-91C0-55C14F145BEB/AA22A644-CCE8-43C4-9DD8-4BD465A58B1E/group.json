@@ -1,0 +1,133 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AA22A644-CCE8-43C4-9DD8-4BD465A58B1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24E9570D-2E29-49DF-ADA0-8EB2F90D6E37",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7414494A-8D0D-4515-81DF-E99B53758D87",
+    "height": 310,
+    "width": 536,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2FF0A370-5D23-4726-8163-4FB768B51A86"
+    },
+    {
+      "class": "shapePath",
+      "id": "049F8481-2C12-40ED-A9E5-CBA5B89D9AB8"
+    },
+    {
+      "class": "rectangle",
+      "id": "36A4488E-C259-47B9-B5EB-3A07B666B595"
+    },
+    {
+      "class": "bitmap",
+      "id": "78241F5B-75F8-4B5C-9B73-AE13BCDACF80"
+    },
+    {
+      "class": "rectangle",
+      "id": "52B2F82F-671C-4BEB-BA40-622E20CCB1F6"
+    },
+    {
+      "class": "group",
+      "id": "750D9DD9-D188-4EA4-8FCB-1CF1252F20BE"
+    },
+    {
+      "class": "group",
+      "id": "5F0B5AE8-7544-415F-9959-BFD492AB8E7F"
+    }
+  ],
+  "name": "Dark Macbook",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6E3E2B06-0AC7-45D0-8743-55BBFB69233D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.277444559565792,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "9E2BDB76-3226-4DC0-9D33-046B64768B24",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 56,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2000000029802322,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 2,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 44,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

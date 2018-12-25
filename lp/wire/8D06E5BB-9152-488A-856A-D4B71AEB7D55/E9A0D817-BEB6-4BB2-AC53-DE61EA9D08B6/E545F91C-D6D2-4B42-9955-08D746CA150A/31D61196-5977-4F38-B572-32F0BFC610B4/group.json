@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "31D61196-5977-4F38-B572-32F0BFC610B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F463C82-FCBE-44DB-8398-7456956CF7BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "293C22DB-A1C9-4CEA-8CC0-0DE33B5364D0",
+    "height": 510.2412868632708,
+    "width": 751.7304747320062,
+    "x": 82.81776416539049,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "33D6D6D9-4F4C-43F1-8FA5-0CD8DCA275A0"
+    },
+    {
+      "class": "oval",
+      "id": "8E74072C-9D45-46ED-B5A3-8F7BB2642766"
+    }
+  ],
+  "name": "Light Effect",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6B25BEC6-665B-42EA-B3A0-5233CCC41E5F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.897959183673469,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "B8B113C8-978E-4732-80AC-E9DCB9DDAE41",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
