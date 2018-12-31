@@ -45,6 +45,43 @@
   "colorSpace": 0,
   "do_objectID": "49932C48-0F2B-4D24-91C1-4EFB86F111A8",
   "foreignLayerStyles": [
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "F6FA2D39-18C1-4BCB-80C6-6C1E6C2F7CD7",
+        "name": "Color/SystemWhite",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "103238A3-DE27-4DC6-80F1-03DFF39FDB11",
+      "sourceLibraryName": "Apple iOS UI",
+      "symbolPrivate": false
+    }
   ],
   "foreignSymbols": [
   ],

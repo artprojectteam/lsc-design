@@ -1,17 +1,20 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "E72B2D3A-C040-4AF8-8CB5-11F15D00B949",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 37591,
   "clippingMaskMode": 0,
-  "do_objectID": "1CA1B2F5-E6EA-48A3-8168-9F2AB98B20CA",
+  "do_objectID": "CB9B7000-7583-4620-ABD2-A03E961A3705",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B252DA7B-F303-4738-B422-9C52A80DC7D9",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -31,10 +34,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 630,
-    "width": 1200,
-    "x": -601,
-    "y": -315
+    "do_objectID": "E7D4F136-D1B9-4304-B163-9641AE5792AE",
+    "height": 1024,
+    "width": 1024,
+    "x": 4865,
+    "y": -316
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -42,10 +46,12 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "945C542A-DB98-45B5-8942-193E8763E652",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -56,31 +62,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "0CB25121-333B-434E-A2F6-2F9289B5A564"
+      "class": "rectangle",
+      "id": "981F861D-5B17-4900-973A-70C1EAE8C648"
     },
     {
       "class": "group",
-      "id": "FBE02899-5F36-4B93-A61D-15D82414BDF8"
+      "id": "0CF06506-7A77-4CE7-A356-DFDD92532114"
     },
     {
-      "class": "symbolInstance",
-      "id": "98F54FBB-4670-45A3-9BF8-2A0F08A06913"
-    },
-    {
-      "class": "text",
-      "id": "F05ADD0F-0B5B-4A68-A935-C1346232D874"
+      "class": "group",
+      "id": "D50AA7D7-DBCD-4DB8-9EBF-CBDAA05F4EEE"
     }
   ],
-  "name": "lsc-ogp",
+  "name": "icon",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 630,
-    "name": "ogp",
-    "offersLandscapeVariant": 0,
-    "width": 1200
-  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,14 +83,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "4E7A6BB1-BC8F-4455-86EA-11E1618EC41F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "954F76CF-92F4-46D2-ACEC-DEFCD1DA98F9",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "E195EE8E-9D12-44E6-BD9E-64381DC3E214",
     "guides": [
     ]
   }
